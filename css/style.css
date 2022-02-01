@@ -1,0 +1,19 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+    padding-top: 132px;
+}
+
+.btn {
+    background-color: #E82B88;
+}
+
+.navbar img {
+    width: 90px;
+}
+
+.box-shadow {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .05), 0 4px 8px rgba(0, 0, 0, .05);
+}
