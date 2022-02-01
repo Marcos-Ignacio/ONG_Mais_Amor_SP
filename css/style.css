@@ -17,3 +17,11 @@ body {
 .box-shadow {
     box-shadow: 0 2px 4px rgba(0, 0, 0, .05), 0 4px 8px rgba(0, 0, 0, .05);
 }
+
+.border-photo {
+    border-radius: 0px 15px;
+}
+
+.background-pink {
+    background-color: #E82B88;
+}
