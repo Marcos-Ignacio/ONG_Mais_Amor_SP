@@ -1,9 +1,67 @@
 * {
     font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Gilroy-Bold', sans-serif;
 }
-
+@import url('http://fonts.cdnfonts.com/css/gilroy-bold');
+              
 body {
     padding-top: 132px;
+}
+.termos {    
+    padding: 90px;    
+}
+.privacidade {
+    padding: 90px;
+}
+.privacidade h1{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    height: 53px;
+    left: 80px;
+    top: 156px;
+    color: #E82B88;
+}
+.privacidade h2{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    margin-block-end: 50px;
+}
+.privacidade p{ 
+    font-family: 'Gilroy-Regular', sans-serif;
+}
+
+.termos h1{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 65px;
+    position: absolute;
+    width: 624px;
+    height: 53px;
+    left: 90px;
+    top: 156px;
+    color: #E82B88;
+}
+.termos h2{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    margin-block-end: 45px;
+}
+.termos h3{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 20px;   
+}
+.termos p{ 
+    font-family: 'Gilroy-Regular', sans-serif;
 }
 
 .btn {
