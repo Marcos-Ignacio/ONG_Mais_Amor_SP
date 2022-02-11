@@ -42,6 +42,12 @@ body {
     font-weight: 900;
 }
 
+.caixa-divisora-branca {
+    background-color: white;
+    width: 450px;
+    margin: 0 auto;
+}
+
 .card-item {
     background: #FFFFFF;
     box-shadow: 6px 6px 16px rgba(232, 43, 136, 0.1);
