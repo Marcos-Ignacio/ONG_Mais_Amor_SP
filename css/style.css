@@ -6,6 +6,31 @@ body {
     padding-top: 132px;
 }
 
+#pj {
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #E82B88;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pj a {
+    text-decoration: nome;
+    color: white;
+    font-weight: 800;
+    width: 70%;
+}
+
+.container {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
 .btn {
     background-color: #E82B88;
 }
@@ -24,4 +49,13 @@ body {
 
 .background-pink {
     background-color: #E82B88;
+}
+
+.card-title {
+    color: #E82B88;
+    font-weight: 900;
+}
+
+.card-ctext {
+    font-weight: 300;
 }
