@@ -8,6 +8,7 @@ A criação de um site surge como um apoio para aumentar a visibilidade e credib
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🤝 Colaboradores
@@ -54,6 +55,14 @@ Pessoas que contribuíram para este projeto:
         <img src="https://avatars.githubusercontent.com/u/46537733?v=4" width="100px;" alt=""/><br>
         <sub>
           <b>Raphael Rodrigues</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wspietro">
+        <img src="https://avatars.githubusercontent.com/u/79719947?v=4" width="100px;" alt=""/><br>
+        <sub>
+          <b>Pietro Weg Sera</b>
         </sub>
       </a>
     </td>
