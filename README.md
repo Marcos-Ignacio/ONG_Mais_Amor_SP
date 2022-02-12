@@ -57,14 +57,6 @@ Pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/brunopbrito31">
-        <img src="https://avatars.githubusercontent.com/u/73408388?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Bruno P. Brito</b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
 
