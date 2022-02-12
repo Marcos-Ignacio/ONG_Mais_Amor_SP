@@ -70,4 +70,4 @@ Pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes..

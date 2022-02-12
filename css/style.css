@@ -2,8 +2,135 @@
     font-family: 'Nunito Sans', sans-serif;
 }
 
+:root{
+    --pinkpers: #E82B88;
+    --greypers: #c4c4c452;
+}
+
+/* @import url('http://fonts.cdnfonts.com/css/gilroy-bold'); */
+
+@font-face{
+    font-family:NunitoEBold; 
+    src: url("/fonts/NunitoSans-ExtraBold.ttf") format("ttf");
+}
+
 body {
-    padding-top: 132px;
+    padding-top: 100px;
+}
+
+.botao-rosa {
+    border-radius: 12px;
+}
+
+.nossos-projetos{
+    background-color: var(--greypers);
+    border-bottom: 1px solid var(--pinkpers);
+    width: 100vw;
+}
+
+.nossos-projetos .caixa-divisora-azul{
+    background-color: #2076F6;
+    width: 400px;
+    height: 85px;
+    margin: 0 auto;
+    border-radius:16px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    color: white;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.caixa-divisora-branca {
+    background-color: white;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.card-item {
+    background: #FFFFFF;
+    box-shadow: 6px 6px 16px rgba(232, 43, 136, 0.1);
+    border-radius: 16px;
+    margin: auto;
+}
+
+.container-imagem {
+    border-radius: 16px 16px 0px 0px;
+}
+
+.tit-entre-em-contato{
+    margin: 0 auto;
+    margin-top:15%;
+    width:calc(100vw/4);
+    color:var(--pinkpers);
+    font-family: NunitoEBold sans-serif;
+    font-size: 45px;
+    text-align: center;
+    position: relative;
+    top: 15.25px;
+}
+
+.termos {    
+    padding: 90px;    
+}
+
+.privacidade {
+    padding: 90px;
+}
+
+.privacidade h1{
+    font-family: Nunito Sans sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    height: 53px;
+    left: 80px;
+    top: 156px;
+    color: #E82B88;
+}
+
+.privacidade h2{
+    font-family: Nunito Sans sans-serif; 
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    margin-block-end: 50px;
+}
+
+.privacidade p{ 
+    font-family: 'Gilroy-Regular', sans-serif;
+}
+
+.termos h1{
+    font-family: Nunito Sans sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 65px;
+    position: absolute;
+    width: 624px;
+    height: 53px;
+    left: 90px;
+    top: 156px;
+    color: #E82B88;
+}
+
+.termos h2{
+    font-family: Nunito Sans sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    margin-block-end: 45px;
+}
+.termos h3{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 20px;   
+}
+.termos p{ 
+    font-family: 'Gilroy-Regular', sans-serif;
 }
 
 #pj {
@@ -40,7 +167,7 @@ body {
 }
 
 .box-shadow {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, .05), 0 4px 8px rgba(0, 0, 0, .05);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .05), 0 4px 10px rgba(0, 0, 0, 0.103);
 }
 
 .border-photo {
@@ -59,3 +186,48 @@ body {
 .card-ctext {
     font-weight: 300;
 }
+
+.color-pink {
+    color: #E82B88;
+    font-weight: 800;
+}
+
+.h2-bolder {
+    font-weight: 800;
+    font-size: 1.25rem;
+}
+
+.letra-negrito {
+    font-weight: 700;
+}
+
+.cards-border {
+    border-radius: 16px;
+}
+
+.form-contato{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+
+@media screen and (max-width: 1000px) {
+
+    .nossos-projetos .caixa-divisora-azul{
+        font-size: 180%;
+    }
+} 
+
+@media screen and (max-width: 600px) {
+    .nossos-projetos .caixa-divisora-azul{
+        width: 62%;
+        font-size: 100%;
+        font-size: 30px;
+    }
+    .nossos-projetos .caixa-divisora-azul>h2{
+        width: 62%;
+        font-size: 100%;
+        font-size: 30px;
+    }
+} 
