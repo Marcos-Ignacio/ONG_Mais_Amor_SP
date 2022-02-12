@@ -122,7 +122,7 @@ body {
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
-    line-height: 33px;
+    line-height: 80px;
     margin-block-end: 45px;
 }
 .termos h3{
@@ -133,7 +133,7 @@ body {
     font-family: 'Gilroy-Regular', sans-serif;
 }
 
-#pj {
+/* #pj {
     border-top-left-radius: calc(0.25rem - 1px);
     border-top-right-radius: calc(0.25rem - 1px);
     width: 150px;
@@ -150,7 +150,7 @@ body {
     color: white;
     font-weight: 800;
     width: 70%;
-}
+} */
 
 .container {
     flex-direction: column;
