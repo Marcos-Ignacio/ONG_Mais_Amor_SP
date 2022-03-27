@@ -1,4 +1,4 @@
-const caminhoServidorAPI = 'http://localhost:3350';
+const caminhoServidorAPI = 'https://api-contato-ong.herokuapp.com';
 
 // Variáveis dos campos do formulário
 let msgVol = document.querySelector('#msg-vol');
